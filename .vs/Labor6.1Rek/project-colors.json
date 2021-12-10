@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3ccfc8a-54c2-4b63-94f7-88d2ed2aa920": {
+      "ProjectGuid": "b3ccfc8a-54c2-4b63-94f7-88d2ed2aa920",
+      "DisplayName": "Labor6.1Rek",
+      "ColorIndex": 0
+    },
+    "c6402fe8-a0c1-4714-9cc0-fc48129d4fab": {
+      "ProjectGuid": "c6402fe8-a0c1-4714-9cc0-fc48129d4fab",
+      "DisplayName": "UnitTest61",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
